@@ -1,0 +1,21 @@
+#test{
+    width: 70%;
+    border: 5px solid gray;
+    margin: auto;
+}
+
+.question{
+    width: 70%;
+    border: 1px solid gray;
+    margin: auto auto 20px;
+    padding: 50px 50px 50px 50px;
+}
+
+.question:hover{
+    background-color: grey;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
